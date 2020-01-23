@@ -11,17 +11,18 @@
 
 てすと  
 
+<!-- Accent-colored raised button with ripple -->
+<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+  Button
+</button>  
 <!-- Raised button with ripple -->
 <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
   Button
-</button>
-<!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
-<br />
-<br />
+</button>  
 <!-- Raised disabled button -->
 <button class="mdl-button mdl-js-button mdl-button--raised" disabled>
   Button
-</button>
+</button>  
 
 ぼたんてすと  
 
