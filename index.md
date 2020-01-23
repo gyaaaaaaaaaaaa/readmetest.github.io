@@ -3,7 +3,7 @@
 [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 
-てすと  
+てすと
 1. [なんとか](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 2. [なんとかだよ](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 3. [な](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
