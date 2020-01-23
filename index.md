@@ -1,3 +1,14 @@
+<script>
+  window.onload = function onLoad(){
+  var character_1 = ["怒れる若者", "アンチ・ヒーロー", "観客", "ほら吹き", "男役", "さくら", "腹心", "批評家", "女役", "ヒーロー/ヒロイン", "王", "無礼講の王", "恋人", "吟遊詩人", "老人役/老女役", "劇作家", "犠牲", "悪党", "料理人", "賢者", "敵役", "医者", "道化"];
+  var character_1_random = Math.floor(Math.random() * character_1.length);
+  target_character_1 = document.getElementById("character_1_id");
+  target_character_1.innerHTML = character_1[character_1_random];
+  }
+</script>
+
+<div id="character_1_id"></div>
+
 ---
 layout: default
 ---
