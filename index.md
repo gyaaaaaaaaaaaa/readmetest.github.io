@@ -9,7 +9,21 @@
 
 <div id="character_1_id"></div>
 
-てすと
+てすと  
+
+<!-- Raised button with ripple -->
+<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
+  Button
+</button>
+<!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
+<br />
+<br />
+<!-- Raised disabled button -->
+<button class="mdl-button mdl-js-button mdl-button--raised" disabled>
+  Button
+</button>
+
+ぼたんてすと  
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
