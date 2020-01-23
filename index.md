@@ -26,8 +26,7 @@
 
 ぼたんてすと  
 
-Markdown記法 チートシート  
-[https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)です  
+[Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
