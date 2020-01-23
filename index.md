@@ -12,6 +12,8 @@
 [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 
+![alt](./200124_コミックB5_600dpiあ.png)
+
 <script>
   window.onload = function onLoad(){
   var character_1 = ["怒れる若者", "アンチ・ヒーロー", "観客", "ほら吹き", "男役", "さくら", "腹心", "批評家", "女役", "ヒーロー/ヒロイン", "王", "無礼講の王", "恋人", "吟遊詩人", "老人役/老女役", "劇作家", "犠牲", "悪党", "料理人", "賢者", "敵役", "医者", "道化"];
