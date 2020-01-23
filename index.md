@@ -12,9 +12,9 @@
 てすと  
 
 <!-- Accent-colored raised button with ripple -->
-<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+[<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
   Button
-</button>  
+</button>](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)    
 <!-- Raised button with ripple -->
 <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
   Button
