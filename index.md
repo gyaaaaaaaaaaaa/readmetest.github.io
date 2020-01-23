@@ -7,7 +7,7 @@
   }
 </script>
 
-<div id="character_1_id"></div>  
+<div id="character_1_id"></div>
 
 てすと
 
