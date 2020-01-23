@@ -17,9 +17,9 @@
 ![alt](./200124_コミックB5_600dpiい.png)
 ![alt](./200124_コミックB5_600dpiいのコピー.png)
 ![alt](./200124_コミックB5_600dpiいのコピー2.png)
-![alt](./200124_コミックB5_600dpiいのコピー3.png)
+![alt](./200124_コミックB5_600dpiい.png)
 
-あ
+い
 
 <script>
   window.onload = function onLoad(){
