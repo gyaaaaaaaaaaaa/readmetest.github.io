@@ -9,9 +9,7 @@
 
 <div id="character_1_id"></div>
 
----
-layout: default
----
+てすと
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
